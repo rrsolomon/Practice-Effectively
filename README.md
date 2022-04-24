@@ -1,4 +1,4 @@
-# Practice Effectively | Master Your Scales and Instrument
+![Practice Effectively Banner](https://github.com/rrsolomon/Practice-Effectively/blob/main/Storage/Photos/Branding/Practice%20Effectively%20Banner.png)
 A repository containing all of the tabs and lesson for practicing effectively.
 
 ## Overview
